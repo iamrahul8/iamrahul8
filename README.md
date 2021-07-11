@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ### <h1 align="center">Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Good to see you here...
 
 <img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁">
+ 
+ <p>I am a fresher pursuing Civil Engineering.
+I am a passionate Web Developer & love Competitive Programming.
+I am always up for new adventures, meeting new people, and learning new things.
+I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.
+</p>
