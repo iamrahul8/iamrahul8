@@ -26,3 +26,8 @@ I am a passionate Web Developer & love Competitive Programming.
 I am always up for new adventures, meeting new people, and learning new things.
 I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.
 </p>
+
+ <h3> Stats for nerds :</h> 
+ 
+ ![Profile views](https://gpvc.arturio.dev/iamrahul8)
+ 
