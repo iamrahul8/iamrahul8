@@ -27,7 +27,11 @@ I am always up for new adventures, meeting new people, and **learning** new thin
 I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.
 
 
- <h3> Stats for nerds :</h> 
+ ### 📶 Stats:<br><br>
  
  ![Profile views](https://gpvc.arturio.dev/iamrahul8)
  
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=iamrahul8&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=000&bg_color=fff&count_private=true&width=40%&align=left) 
+<br>
+<br>
