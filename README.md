@@ -34,7 +34,8 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 <!-- - []()
 
  -->
- ## 📶 Stats:
+ ## 📶 Stats:  <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="?width=676&height=676">-->
+ 
  ![Profile views](https://gpvc.arturio.dev/iamrahul8)
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rahul-kumar-072/)
 
