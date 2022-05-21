@@ -37,14 +37,17 @@ I enjoy the thought of adding value to people's lives and having a positive impa
  ![Profile views](https://gpvc.arturio.dev/iamrahul8)
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rahul-kumar-072/)
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/iamrahul8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrahul8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahul8&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
- [![Rahul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamrahul8&&theme=dracula)](https://github.com/iamrahul8)
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrahul8" alt="iamrahul8" /></a> </p>-->
+<div align="left">
+  
+ ![snake](https://raw.githubusercontent.com/iamrahul8/github-contribution-grid-snake/644e059f646a54bf8b714ae9b3bbfb2a896cbd98/github-contribution-grid-snake.svg)
+  
+ </div>
 
 
 <!-- BLOG-POST-LIST:START -->
@@ -64,4 +67,4 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 <a href="https://www.hackerrank.com/@rkgkumar072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rkgkumar072" height="30" width="40" /></a>
 </p>
  
-
+ 
