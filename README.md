@@ -37,11 +37,13 @@ I enjoy the thought of adding value to people's lives and having a positive impa
  ![Profile views](https://gpvc.arturio.dev/iamrahul8)
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rahul-kumar-072/)
 
+<div align="center">
+  <a href="https://github.com/iamrahul8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrahul8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahul8&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
-![My github stats](https://github-readme-stats.vercel.app/api?username=iamrahul8&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=000&bg_color=fff&count_private=true&width=100%&align=left)
-
-
- [![Rahul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamrahul8&&theme=xcode)](https://github.com/iamrahul8)
+ [![Rahul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamrahul8&&theme=dracula)](https://github.com/iamrahul8)
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrahul8" alt="iamrahul8" /></a> </p>-->
 
 
