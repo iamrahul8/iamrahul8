@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  👋🏼 👨🏻‍💻 
 -->
 
-### <h1 align="center">Hey<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Good to see you here...
+### <h1 align="center">Hey👋 Good to see you here...
 
 <img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁">
  
