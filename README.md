@@ -89,8 +89,9 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 - [Kubernetes or Cloud Foundry : Cloud-Native App Deployment](https://dev.to/iamrahul/kubernetes-or-cloud-foundry-cloud-native-app-deployment-512k)
  
  
- 
 <!-- BLOG-POST-LIST:END -->
+ 
+ <br>
  <span align="right">
   
  ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
