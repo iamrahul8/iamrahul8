@@ -83,7 +83,7 @@ I enjoy the thought of adding value to people's lives and having a positive impa
  
  
  <h2 align="center"> 📝 Latest Blog Posts</h2>
-
+- [WebDesign Process : Know this before beginning](https://medium.com/@iamrahul8/webdesign-process-know-this-before-beginning-845dbc48765e)
 - [Error 404 : Page not Found](https://dev.to/iamrahul/error-404-page-not-found-5033)
 - [What is NativeScript ?](https://iamrahul.hashnode.dev/what-is-nativescript)
 - [Kubernetes or Cloud Foundry : Cloud-Native App Deployment](https://dev.to/iamrahul/kubernetes-or-cloud-foundry-cloud-native-app-deployment-512k)
