@@ -17,18 +17,11 @@ Here are some ideas to get you started:
  👋🏼 👨🏻‍💻 
 -->
 
-### <h1 align="center">Hey👋 Good to see you here...
 
-<img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁">
- 
-I am a fresher pursuing **Civil Engineering.**
-I am a passionate **Web Developer** & love **Competitive Programming**👨🏻‍💻 
-I am always up for new adventures, meeting new people, and **learning** new things.
-I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.
-<br>
- 
- <h2 align="center"> 🤝 Connect with me:</h2>
-<p align="center">
+
+<img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁"><br>
+
+ <p align="center">
  <a href="https://linkedin.com/in/rahul-kumar-072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-072" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/@iamrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@iamrahul" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@iamrahul8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iamrahul8" height="30" width="40" /></a>&nbsp;&nbsp;
@@ -40,6 +33,14 @@ I enjoy the thought of adding value to people's lives and having a positive impa
  
 </p>
 <br>
+
+# Hey👋 Good to see you here...
+I am a sophomore pursuing **Civil Engineering.**
+I am a passionate **Web Developer** & love **Competitive Programming**👨🏻‍💻 
+I am always up for new adventures, meeting new people, and **learning** new things.
+I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.
+<br>
+ 
  <div align="center">
  <h2 align="center"> 📶 Stats: </h2> <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="?width=676&height=676">-->
  <!--Profile view of this yr only-->
