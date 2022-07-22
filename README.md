@@ -35,6 +35,7 @@ Here are some ideas to get you started:
  
 </p>
 <br>
+<img align ="right" alt="Girl"  width="170" src="71ep.gif">
 
 # Hey👋 Good to see you here...
 I am a sophomore pursuing **Civil Engineering.**
