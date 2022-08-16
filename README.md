@@ -84,6 +84,14 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 
  
  
+ <details align="">
+<summary>Github Trophies<img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></summary>
+  <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+   <img src="https://github-profile-trophy.vercel.app/?username=iamrahul8&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+   </details>
+ 
+ 
+ 
 <!-- BLOG-POST-LIST:START -->
 
  
@@ -95,10 +103,11 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 - [What is NativeScript ?](https://iamrahul.hashnode.dev/what-is-nativescript)
 - [Kubernetes or Cloud Foundry : Cloud-Native App Deployment](https://dev.to/iamrahul/kubernetes-or-cloud-foundry-cloud-native-app-deployment-512k)
  
- 
-<!-- BLOG-POST-LIST:END -->
- 
  <br>
+<!-- BLOG-POST-LIST:END -->
+
+
+
  <span align="right">
   
  ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
