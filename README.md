@@ -86,8 +86,8 @@ I enjoy the thought of adding value to people's lives and having a positive impa
  
  <details align="">
 <summary>Github Trophies<img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></summary>
-  <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-   <img src="https://github-profile-trophy.vercel.app/?username=iamrahul8&theme=onedark&no-frame=true&no-bg=true&theme=discord">
+  <h2>Github Trophies </h2>
+   <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=iamrahul8&theme=dracula&column=9" alt="trophies" />
    </details>
  
  
