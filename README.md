@@ -35,15 +35,17 @@ Here are some ideas to get you started:
  
 </p>
 <br>
-<img align ="right" alt="Girl"  width="170" src="assets/fight.gif">
+<img align ="right" alt="fight"  width="300" src="assets/fight.gif">
 
-# Hey👋 Good to see you here...
-I am a sophomore pursuing **Civil Engineering.**
-I am a passionate **Web Developer** & love **Competitive Programming**👨🏻‍💻 
-I am always up for new adventures, meeting new people, and **learning** new things.
-I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.
+
+
+<h1 align=""> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Good to see you here...</h1>
+<p>I am a sophomore pursuing <b>Civil Engineering.</b>
+I am a passionate <b>Web Developer</b> & love <b>Competitive Programming</b>👨🏻‍💻 
+I am always up for new adventures, meeting new people, and <b>learning</b> new things.
+I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.</p>
 <br>
- 
+ <br>
  <div align="center">
  <h2 align="center"> 📶 Stats: </h2> <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="?width=676&height=676">-->
  <!--Profile view of this yr only-->
