@@ -67,13 +67,7 @@ I enjoy the thought of adding value to people's lives and having a positive impa
   </a>
 </p>
  
- 
-<div align="center">
- <h2 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-  
- ![snake](https://raw.githubusercontent.com/iamrahul8/github-contribution-grid-snake/644e059f646a54bf8b714ae9b3bbfb2a896cbd98/github-contribution-grid-snake.svg)
-  
- </div>
+
 
 
 
