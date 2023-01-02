@@ -20,7 +20,7 @@
 
 <h1 align=""> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Good to see you here...<img src="https://user-images.githubusercontent.com/72541381/196875517-5e0b1780-abca-4a5e-9720-eb2b26b28387.png" width="50"></h1>
 
-<p>I am a sophomore pursuing <b>Civil Engineering.</b>
+<p>I am a junior pursuing <b>Civil Engineering.</b>
 I am a passionate <b>Web Developer</b> & love <b>Competitive Programming</b>👨🏻‍💻 
 I am always up for new adventures, meeting new people, and <b>learning</b> new things.
 I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.</p>
