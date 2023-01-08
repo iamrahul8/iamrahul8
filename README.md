@@ -1,17 +1,18 @@
 
 
-<img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁">
+<!--<img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁">-->
 
-<br>
+![website1](https://user-images.githubusercontent.com/72541381/211205700-04c13c05-4f9d-4c2d-bb51-b4b4216c743c.gif)
+
 
  <p align="center">
- <a href="https://linkedin.com/in/rahul-kumar-072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-kumar-072" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/@iamrahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@iamrahul" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://hashnode.com/@iamrahul8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@iamrahul8" height="30" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/rkgkumar072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rkgkumar072" height="30" width="40" /></a>&nbsp;&nbsp;
- <a href="https://twitter.com/i_amrahul8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rkgkumar072" height="30" width="40" /></a>&nbsp;&nbsp;
- <a href="https://www.instagram.com/@i_amrahul8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rkgkumar072" height="30" width="40" /></a>&nbsp;&nbsp;
-
+ <a href="https://linkedin.com/in/rahul-kumar-072" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211205766-a6fed0d2-a383-4e0a-8000-0111087a9f38.gif" alt="rahul-kumar-072" height="80" width="80" /></a>&nbsp;&nbsp;
+<a href="https://dev.to/@iamrahul" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211205989-681edda0-5e13-461d-97cc-9b5ca41a1a3c.png" alt="@iamrahul" height="50" width="60" /></a>&nbsp;&nbsp;
+<a href="https://hashnode.com/@iamrahul8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211206059-316087be-318e-4452-8b3c-caffd90f146f.png" alt="@iamrahul8" height="50" width="50" /></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/rkgkumar072" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211206223-6a37664f-a5dc-4a78-abb7-d7a137c41661.png" alt="@rkgkumar072" height="70" width="70" /></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/i_amrahul8" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211206367-083f16d5-880b-4149-90e7-dd02af0cf0ba.png" alt="@rkgkumar072" height="50" width="50" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/rkgkumar072/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211206497-268b73ee-a8c7-47df-a571-6bceb61a3ed6.png" alt="leetcode" height="60" width="60" /></a>&nbsp;&nbsp;
+    <a href="https://auth.geeksforgeeks.org/user/rkgkumar072/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/72541381/211206621-b4f27bce-27aa-471c-b953-0d83637a2738.png" alt="gfg" height="50" width="60" /></a>&nbsp;&nbsp;
 
 </p>
 <br>
@@ -75,7 +76,7 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 
  
  
- <h2 align="center"> 📝 Latest Blog Posts</h2>
+ <h2 align="center"> 📝 Some Blog Posts</h2>
  
 <!--<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrahul8/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrahul8/0" alt="Latest medium article"> </a>
 -->
