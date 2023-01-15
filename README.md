@@ -137,8 +137,7 @@ I enjoy the thought of adding value to people's lives and having a positive impa
 
 [![@iamrahul8's Holopin board](https://holopin.me/iamrahul8)](https://holopin.io/@iamrahul8)
 
- <span align="right">
+  <span align="right">
   
  ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
- 
- </span>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="90"/></span>
