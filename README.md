@@ -1,8 +1,8 @@
-
+<h1 align=""> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Good to see you here...<img src="https://user-images.githubusercontent.com/72541381/196875517-5e0b1780-abca-4a5e-9720-eb2b26b28387.png" width="50"></h1>
 
 <!--<img src="Hi.gif" alt="banner that says Rahul Kumar - Web Developer , Coder , Designer & Learner😁">-->
 
-![website1](https://user-images.githubusercontent.com/72541381/211205700-04c13c05-4f9d-4c2d-bb51-b4b4216c743c.gif)
+![Header](https://user-images.githubusercontent.com/72541381/219470211-9e2bb15c-93d4-4a63-8cad-8f4ff6982b9d.gif)
 
 
  <p align="center">
@@ -16,7 +16,6 @@
 
 </p>
 
-<h1 align=""> <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80">Good to see you here...<img src="https://user-images.githubusercontent.com/72541381/196875517-5e0b1780-abca-4a5e-9720-eb2b26b28387.png" width="50"></h1>
 
 <p>I am a junior pursuing <b>Civil Engineering.</b>
 I am a passionate <b>Web Developer</b> & love <b>Competitive Programming</b>👨🏻‍💻 
