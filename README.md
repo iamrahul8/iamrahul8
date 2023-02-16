@@ -23,7 +23,14 @@ I am a passionate <b>Web Developer</b> & love <b>Competitive Programming</b>👨
 I am always up for new adventures, meeting new people, and <b>learning</b> new things.
 I enjoy the thought of adding value to people's lives and having a positive impact on the world via my work.</p>
 
- <br>
+ ```javascript
+const RahulKumar = {
+  fullName: 'Rahul Kumar',
+  age: 20,
+  country: 'IN',
+  birthday: '20/01/2003',
+}
+```
  <div align="center">
  <h2 align="center"> 📶 Stats: </h2> <!--<img align="right" alt="pic" height="150" style="border-radius:50px;" src="?width=676&height=676">-->
  
